@@ -1,0 +1,99 @@
+html{
+	background-color: white;
+}
+.form {
+	border-radius: 10px;
+	position: relative;
+	z-index: 1;
+	background: #ffffff;
+	max-width: 360px;
+	margin: 0 auto 100px;
+	padding: 45px;
+	text-align: center;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  }
+#pagLogin{
+	background-color: #E6DAD8;
+}
+#login, img{
+	width: 40%;
+	text-align: center;
+	align-content: center;
+	margin: auto;
+	padding: 0.5em;
+	
+}
+#login form{
+	 margin-top: 20%;
+	box-shadow: 0px 10px 10px -6px black;
+	background-color: white;
+	padding: 1em;
+}
+#login input{
+	padding: 0.5em;
+	margin: 0.5em auto;
+	text-align: center;
+}
+#login button{
+	margin: 0.5em auto;
+	background-color: gray;
+	color: white;
+	width: 100%;
+}
+ul,li, form{
+	list-style: none;
+}
+#formFAQ{
+	width: 70%;
+	margin: 1em auto;
+	text-align: center;
+	padding: 0.5em;
+}
+
+#tableFAQ, #tableFAQ table, #tableFAQ th{
+	margin: 1em auto;
+	text-align: center;
+	
+}
+#tableFAQ{
+	margin-top: 1em;
+	padding: 1em;
+}
+#tableFAQ table, #tableFAQ th, #tableFAQ td{
+	border: 1px solid black;
+}
+/* CATALOGO */
+#formCatalogo{
+	width: 50%;
+	margin: 1em auto;
+	background-color: white;
+}
+#formCatalogo button{
+	width: 30%;
+	margin-bottom: 3em;
+}
+#tablaCatalogo{
+	margin-top: 2em;
+}
+#tablaCatalogo table{
+	margin: 1em auto;
+	text-align: center;
+	border: 1px solid #838282;
+}
+#tablaCatalogo tr{
+	border: solid #838282 1px;
+}
+#tablaCatalogo th, #tablaCatalogo td{
+	height: 5em;
+	text-align: center;
+	padding: 0.5em 0;
+}
+#tablaCatalogo th{
+	background-color: #838282;
+	color: white;
+}
+#tablaCatalogo img{
+	max-width: 90%;
+	min-width: 70%;
+} 
+
